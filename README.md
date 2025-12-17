@@ -1,2 +1,2 @@
 # treasure_hunts
-Code and data for "The Joy of Shopping: Thrill of the Treasure Hunt," Management Science 
+Code and data for "The Joy of Shopping: Thrill of the Treasure Hunt," Management Science. These files contain the Matlab code and Excel figures for the numerical examples and the Qualtrics survey. The Matlab files compute the optimal mu and price, and the corresponding Excel file then produces the figures. There is also an Excel file with the survey data and figures. All of the Matlab and Excel files are also included in the ZIP file treasure_hunts_code_and_data.zip
